@@ -1,2 +1,3 @@
-<< Cooper Saye >>
-<< SI 338 Fall 2025 >>
+Cooper Saye
+
+SI 338 Fall 2025
