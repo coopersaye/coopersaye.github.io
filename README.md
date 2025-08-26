@@ -1,1 +1,2 @@
-# coopersaye.github.io
+<<Cooper Saye>>
+<<SI 338 Fall 2025
